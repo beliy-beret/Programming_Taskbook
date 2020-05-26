@@ -1,0 +1,14 @@
+{
+  "name": "begin-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "num.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}

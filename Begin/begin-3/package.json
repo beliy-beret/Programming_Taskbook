@@ -1,0 +1,15 @@
+{
+  "name": "begin-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rect.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Skorobogatov S.U. <beliy_beret@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  }
+}

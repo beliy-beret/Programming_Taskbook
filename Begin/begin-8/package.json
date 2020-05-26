@@ -1,0 +1,14 @@
+{
+  "name": "begin-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arithmeticMean.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Skorobogatov S.U.",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}

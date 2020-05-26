@@ -1,0 +1,14 @@
+{
+  "name": "begin-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "geometricMean.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Skorobogatov S.U.",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}

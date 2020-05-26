@@ -1,0 +1,14 @@
+{
+  "name": "begin-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "circumference.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Skorobogetov S.U. <beliy_beret@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
